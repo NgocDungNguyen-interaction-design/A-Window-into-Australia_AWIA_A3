@@ -1,4 +1,4 @@
-# A Window into Australia — Assessment 2
+# A Window into Australia 
 
 An interactive archive-exploration interface for the National Film and Sound Archive of Australia (NFSA). The interface retrieves collection records at runtime and provides search, browsing, item detail, loading/error/empty states, and a random discovery feature.
 
